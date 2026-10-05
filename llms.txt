@@ -1,0 +1,21 @@
+# Ataraxy Revenue Engine
+
+> Ataraxy is an applied AI agency based in Montevideo, Uruguay, serving LATAM and the US. Revenue Engine is an AI outbound system that finds best-fit accounts from buying signals, with human-reviewed messages and client ownership.
+
+## Service
+
+- [Revenue Engine](https://revenue.ataraxydigital.com/): An AI outbound system that finds best-fit accounts from buying signals, with human-reviewed messages and client ownership.
+- [How it works](https://revenue.ataraxydigital.com/#how): The delivery process and operating model.
+- [Scope and ownership](https://revenue.ataraxydigital.com/#own): What the client receives and how the engagement works.
+
+## Related Ataraxy services
+
+- [Ataraxy](https://www.ataraxydigital.com/): Agency overview, implementation cases, and contact.
+- [Voice AI](https://voice.ataraxydigital.com/): Related applied AI service.
+
+## Languages and contact
+
+- [English](https://revenue.ataraxydigital.com/): Revenue Engine service page in English.
+- [Español](https://revenue.ataraxydigital.com/es/): Revenue Engine service page in Español.
+- [Português](https://revenue.ataraxydigital.com/pt/): Revenue Engine service page in Português.
+- [Book a call](https://meet.ataraxydigital.com/): Discuss a project with Ataraxy.
